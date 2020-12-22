@@ -18,7 +18,7 @@ class Main extends React.Component {
 
   handleEndGame = (boolean) => {
     if (boolean) {
-      this.setState({ showEndGame: boolean, score: this.state.score + 1 });
+      this.setState({ showEndGame: boolean, score: this.state.score + 3 });
     } else {
       this.setState({ showEndGame: boolean });
     }
