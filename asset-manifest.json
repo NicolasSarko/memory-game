@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Memory-game/static/css/main.d196e87a.chunk.css",
+    "main.js": "/Memory-game/static/js/main.f74845d9.chunk.js",
+    "main.js.map": "/Memory-game/static/js/main.f74845d9.chunk.js.map",
+    "runtime-main.js": "/Memory-game/static/js/runtime-main.2e47417b.js",
+    "runtime-main.js.map": "/Memory-game/static/js/runtime-main.2e47417b.js.map",
+    "static/js/2.f92c1857.chunk.js": "/Memory-game/static/js/2.f92c1857.chunk.js",
+    "static/js/2.f92c1857.chunk.js.map": "/Memory-game/static/js/2.f92c1857.chunk.js.map",
+    "index.html": "/Memory-game/index.html",
+    "static/css/main.d196e87a.chunk.css.map": "/Memory-game/static/css/main.d196e87a.chunk.css.map",
+    "static/js/2.f92c1857.chunk.js.LICENSE.txt": "/Memory-game/static/js/2.f92c1857.chunk.js.LICENSE.txt",
+    "static/media/arrow.3ca4d298.jpg": "/Memory-game/static/media/arrow.3ca4d298.jpg",
+    "static/media/App.css": "/Memory-game/static/media/avengers.808461d8.jpg",
+    "static/media/blackwidow.90ccd861.jpg": "/Memory-game/static/media/blackwidow.90ccd861.jpg",
+    "static/media/captain.cec97c5d.jpg": "/Memory-game/static/media/captain.cec97c5d.jpg",
+    "static/media/hulk.9d7146e2.jpg": "/Memory-game/static/media/hulk.9d7146e2.jpg",
+    "static/media/spiderman.736d847a.jpg": "/Memory-game/static/media/spiderman.736d847a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e47417b.js",
+    "static/js/2.f92c1857.chunk.js",
+    "static/css/main.d196e87a.chunk.css",
+    "static/js/main.f74845d9.chunk.js"
+  ]
+}
